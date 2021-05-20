@@ -1,5 +1,6 @@
 # Text-Mining-Amazon-Reviews
-
+<img src="D.png"
+     alt="">
 # Data Analysis and Text Mining
 
 ```
